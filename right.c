@@ -7,5 +7,5 @@ int main() {
     CGEventTapLocation loc = kCGSessionEventTap;
     CGEventPost(loc, event1);
     CGEventPost(loc, event2);
-return 0;
+    return 0;
 }
